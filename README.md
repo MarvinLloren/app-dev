@@ -1,2 +1,4 @@
 # Thor: Love and Thunder
-My first repository
+![alt text](image.jpg)
+term
+: definition
